@@ -1,0 +1,10 @@
+,Date,drive,Gas,Temperature,Humidity,colors
+0,"December 29, 2019 at 12:29AM",drive,309.0,22.4,59.0,green
+1,"December 29, 2019 at 12:29AM",drive,308.0,22.4,59.0,green
+2,"December 29, 2019 at 12:30AM",drive,375.0,22.5,58.0,red
+3,"December 29, 2019 at 12:30AM",drive,349.0,22.5,58.0,green
+4,"December 29, 2019 at 12:30AM",drive,337.0,22.5,58.0,green
+5,"December 29, 2019 at 12:30AM",drive,339.0,22.5,58.0,green
+6,"December 29, 2019 at 12:30AM",drive,388.0,22.5,58.0,red
+7,"December 29, 2019 at 12:30AM",drive,364.0,22.5,58.0,red
+8,"December 29, 2019 at 12:30AM",drive,341.0,22.5,58.0,green
